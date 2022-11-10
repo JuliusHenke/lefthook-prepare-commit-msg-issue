@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "I am an error from pre-commit!"
+echo "Error from pre-commit!"
 exit 1
