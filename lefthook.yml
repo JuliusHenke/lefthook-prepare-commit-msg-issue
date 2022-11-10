@@ -1,0 +1,9 @@
+prepare-commit-msg:
+  scripts:
+    "prepare-commit-msg.sh":
+      runner: bash
+
+pre-commit:
+  scripts:
+    "pre-commit.sh":
+      runner: bash
